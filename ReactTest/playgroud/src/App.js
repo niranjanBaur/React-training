@@ -8,7 +8,7 @@ function App() {
       <Navbar title = "Hey bro!"/>
 
       <div className='container'>
-        <h3 className="mt-3">Hey you are in the right place to change your text !!!</h3>
+        {/* <h3 className="mt-3">Hey you are in the right place to change your text !!!</h3> */}
         <TextFeild/>
       </div>
     </>
